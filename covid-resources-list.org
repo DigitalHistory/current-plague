@@ -1,0 +1,57 @@
+* Trackers
+** US
+- [[https://coronavirus.jhu.edu/us-map][JHU CSSE US Map]] -- by ocunty
+** World
+- [[https://coronavirus.jhu.edu/map.html][JHU SSE Dashboard]] (canonical source of data for most forecasters and many other trackers, despite some issues with the underlying data)
+- [[https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html?action=click&pgtype=Article&state=default&module=styln-coronavirus&variant=show&region=TOP_BANNER&context=storyline_menu][NYTimes maps/trackers]] (URL changes daily)
+- 
+** Canada
+- [[https://www.thestar.com/news/canada/the-latest-covid-19-data-from-canada-and-around-the-world-check-here-for-updates-on-cases-and-deaths.html][Toronto Star Interactives]]
+- [[https://www.ctvnews.ca/health/coronavirus/tracking-every-case-of-covid-19-in-canada-1.4852102][CityTV Case Tracker/interactive]]
+- [[https://www.ctvnews.ca/health/coronavirus/covid-19-curves-compare-canada-and-other-key-nations-1.4881500][CityTV Canada vs. World comparison]]
+- [[https://art-bd.shinyapps.io/covid19canada/][Dalla Lana School of Public Health Dashboard]] (see dataset below)
+
+** Other Countries
+* Forecasts (usually US & world, have not found a good Canada forecaster w/ province breakdowns)
+
+** IHME
+Curve-fitting, optimistic assumptions, aimed at forecasting healthcareresource crises, centre previously mainly concerned w/ less=developed countries
+- [[https://covid19.healthdata.org/united-states-of-america][Main (US) page]]
+- [[https://covid19.healthdata.org/canada][Canada]]
+- [[https://covid19.healthdata.org/sweden][Sweden]]
+
+** Los Alamos National Laboratory (LANL)
+Epidemiology group at the non-linear/complex systems LANL institute
+- [[https://covid-19.bsvgateway.org/][Main Page]]
+
+** Imperial College Group
+Short term only, tends to be pessimistic, was involved in UK's ill-fated decision to put off social distancing
+- [[https://mrc-ide.github.io/covid19-short-term-forecasts/index.html?fbclid=IwAR2DBpPyADrF5ateg85I1AljKkN6oSzrDDBMkXXvOrv5iiGOFqq9DkWl0pc][projections]] , includes estimates for R, very helpful
+
+** CDC Forecast
+Uses rech lab data, see below for gh repo
+- [[https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html?fbclid=IwAR1_Bi2vlcE0FuL0a8CHk777fU2Sn6ceVfL3nkuZL1z3AgXISd0ccx52uto][CDC Forecast]]
+
+
+* Information Hubs
+- [[https://coronavirus.jhu.edu/#covid-19-basics][JHU COVID Resource Center]]
+- [[https://www.theguardian.com/world/coronavirus-outbreak][The Guardian Coronavirus Hub]]
+- [[http://www.healthdata.org/covid][IHME Covid Hub]] (mostly their own pubs)
+* Periodic Updates
+- [[https://www.centerforhealthsecurity.org/newsroom/newsletters/e-newsletter-sign-up.html][JHU Newsletters]] ([[https://www.centerforhealthsecurity.org/resources/COVID-19/COVID-19-SituationReports.html][Archive]])
+- [[https://www.ndr.de/nachrichten/info/podcast4684.html][Das Coronavirus-Update mit Christian Drosten]] ([[https://www.ndr.de/nachrichten/info/Coronavirus-Update-Die-Podcast-Folgen-als-Skript,podcastcoronavirus102.html][German Transcripts]], [[https://www.notion.so/NDR-Coronavirus-update-with-Christian-Drosten-podcast-summaries-7f230087f3d643db9b1dbab671f07427][English Summaries]])
+- [[https://www.microbe.tv/twiv/][This Week in Virology]] (somewhat longwinded and occasionally dull, but with very interesting nuggets sometimes)
+- [[https://www.nytimes.com/2020/05/07/us/coronavirus-updates.html?action=click&pgtype=Article&state=default&module=styln-coronavirus&variant=show&region=TOP_BANNER&context=storyline_menu][NYTimes Live Updates]] (URL changes daily)
+- [[https://www.nytimes.com/newsletters/coronavirus-briefing][NYTimes Newsletter]]
+- [[https://www.theguardian.com/world/live/2020/may/07/coronavirus-live-news-trump-says-covid-19-task-force-to-continue-indefinitely-as-us-china-rift-widens][The Guardian Live COVID Feed]] (URL changes daily)
+- [[https://www.theguardian.com/world/2020/mar/18/coronavirus-the-week-explained-sign-up-for-our-email-newsletter][The Guardian Newsletter]]
+- 
+* Code Repoitories (and various meta-trackers)
+- [[https://github.com/CSSEGISandData/COVID-19][JHU COVID data repo]]
+- [[https://www.covid-projections.com/][Compare IHME and LANL forecasts over time]] ([[https://github.com/yuorme/covid-projections][source code]])
+- [[https://github.com/ishaberry/Covid19Canada][Canadian Data]]
+- [[https://reichlab.io/covid19-forecast-hub/][Reichlab metatracker]] (US Only, but still cool)
+- - [[https://ihmeuw-msca.github.io/CurveFit/?fbclid=IwAR2xe0zQLHQ6eYvGcqRqzeiQ9DYH4UJAhWDLuuI5uF6F7nJtXSS0hHUlTJU][IHME CurveFit Model]], finally, some freaking code --
+- [[https://www.covidanalytics.io/projections?fbclid=IwAR3uYBdWKPfuyFkeXjM2ZYBkZXhyd6VKs02MYGIHNYo8AE8akIS0fYMLVSI][MIT Operations Research Center model]] ([[https://github.com/COVIDAnalytics/DELPHI][code]])
+- [[https://github.com/reichlab/covid19-forecast-hub?fbclid=IwAR1EO5CHAvQ7Wk9XCQEI1L4VF9ta52ORKuWvPeNeOYEtTtwSQJASqSn_G34][Reichlab data source]]
+- 
