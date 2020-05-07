@@ -1,8 +1,122 @@
+#+TITLE: Syllabus
+#+SUBTITLE: WDW436: The Current Plague
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE: en
+#+ODT_STYLES_FILE: "/home/matt/.emacs.d/Templates/syl-temp-2019.odt"
+#+HUGO_SECTION: syllabus
+#+HUGO_MENU: :menu main :weight 10
+# #+MACRO: ts (eval (get-ts+7-inc-ov ))
+#+OPTIONS: todo:nil
 #+SETUPFILE: ./setup.org
+* Logistics
+:PROPERTIES:
+:END:
 
+#+ATTR_HTML: :class org-upload
+| *Instructor:*   | Matt Price                                                      |
+| *Email:*        | matt.price@utoronto.ca                                          |
+| *Meeting Times* | T Th 2-4, *[[https://ca.bbcollab.com/guest/192ed74b313e4f78a1736eb8baa6ec27][Online Only via BB Collaborate]]*                      |
+| *Slack*         | [[https://join.slack.com/t/uoftdh/shared_invite/zt-ealv7ktd-ROJC_M~1rOZaaZMQMp8H1w][Follow this Link to Join]]                                        |
+| *Quercus:*      | https://q.utoronto.ca/courses/158912                            |
+| *Youtube:*      | https://www.youtube.com/channel/UCMnRbMMNNH86qxmZ3umP1YA/videos |
+| *Office Hrs:*   | Slack & By Appointment                                          |
+
+In general, online communication should take place *via Slack*.  In the case of questions having to do with official University business (requests for extensions, discussion of accommodations, any message involving sensitive personal data) please [[mailto:matt.price@utoronto.ca?subject=WDW436%20Current%20Plague][use my University email, being sure to put "WDW436" in the subject line]]!.
+
+* COMMENT Resources
+- [[https://www.facebook.com/mattprice68/posts/10158788456631874][My fb post asking for help]]
+- 
+
+* Course Description
+We are living through a significant historical inflection point. The response to [[https://en.wikipedia.org/wiki/Coronavirus_disease_2019][COVID-19]], the disease caused by [[https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2][the SARS-CoV-2 virus]], has had an unprecedented global reach, affecting daily life, material infrastructure, local and global economic relationships, and political alliances in markedly unexpected ways. Here in Toronto, most of us find our lives transformed and old certainties overturned. Drastic threats loom; new possibilities beckon. More than ever before, we live our lives and maintain our social connections online, dependent upon the international infrastructure of optical cables, communications satellites, search engines, and social media corporations.
+
+And yet, and yet: perhaps there is nothing new under the sun. Throughout human history, contagious disease has been a powerful force, disrupting regimes of governance and patterns of work, transforming ways of life. The COVID pandemic has antecedents that structure our understanding of it: ebola, AIDS, influenza, cholera, plague. 
+
+The goal of this class is to interrogate these two aspects of our current moment: the utter novelty of the disease and our response, and the historical antecedents which inform our pre-critical response to disease, and potentially offer resources for a deeper understanding. We also seek to ask: what resources can the digital humanities, and the humanities more broadly, offer in this time of crisis? What responses do we bring to it, as humanists and as human beings bound in solidarity?
+
+* Course Format
+We will meet Tuesday and Thursday for a *strongly recommended* online seminar. It's very difficult to hold a fourth-year seminar without some kind of synchronous meetings! However, the class has been structured so as to allow us all to manage even if it's not possible to join the live meeting due, e.g. to insufficient Internet access or lack of a quiet/private room. 
+
+** Asynchronous Discussion
+
+Class Discussion should take place *[[https://join.slack.com/t/uoftdh/shared_invite/zt-ealv7ktd-ROJC_M~1rOZaaZMQMp8H1w][In Slack]]* -- I will create a new channel for each session. I also have a [[https://www.youtube.com/channel/UCMnRbMMNNH86qxmZ3umP1YA/videos][YouTube Channel]] for the class where I will occasionally post short videos; you are welcome to do the same. 
+
+Each session  by noon before class, two of you will post *written responses* to the readings for that session. Those responses should pose questions to help structure the class discussion. If you're not able to attend the class, you should *respond to those posts in Slack*. Even if you're coming to class, you're very much encourage do do the same. 
+
+I will also occasionally post *Announcements* in Quercus, as well as *Assignments* and any required course files. 
+
+** Synchronous Discussion
+
+Synchronous class meetings take place via [[https://ca.bbcollab.com/guest/192ed74b313e4f78a1736eb8baa6ec27][the course BB Bollaborate room]]. My experience thus far with BB Collaborate has been mixed, and we may switch venues in future. During class we will concern ourselves primarily with careful readings of the course texts, and will use any additonal time to make proress on class assignments.
+
+* Policies
+** Accessibility
+The University provides academic accommodations for students with disabilities in accordance with the terms of the Ontario Human Rights Code. For information on services and resources, see http://www.studentlife.utoronto.ca/as
+** Respecting Diversity
+Diverse backgrounds, embodiments, and experiences are essential to the critical thinking endeavor at the heart of higher education. We expect you to be respectful of the many social and cultural differences among us, which may include, but are not limited to: age, cultural background, disability, ethnicity, technical ability, gender identity and presentation, citizenship and immigration status, national origin, race, religious and political beliefs, sex, sexual orientation, and socioeconomic status. Please talk with me right away if you experience disrespect in this class—from any source, including myself—and I will active work to address it. 
+
+** Correspondence
+As noted above, most communication should take place *via Slack*.  In the case of questions having to do with official University business (requests for extensions, discussion of accommodations, any message involving sensitive personal data) please [[mailto:matt.price@utoronto.ca?subject=WDW436][use my University email, being sure to put "WDW436" in the subject line]].  I'll do my best to reply within two working days, though occasionally the delay may be slightly longer. Please allow the full 48 hours to elapse before sending a repeat email.  
+
+*Also:* I have an injury-related difficulty co-ordinating action between my left and right hands, which leads to very frequent & distinctive typographical errors (and is also one of the many reasons you don't want to hear me play a musical instrument). In my course materials, assignment comments, and announcements, I strive to eliminate those errors, but in instant messaging I am less attentive, as typing corrections approximately triples my composition time. So... please bear with me. 
+** Attendance
+Make every effort to attend each class meeting if you can! Class will begin and (usually) end on time. Please do your best to get to class before the start of the session. Students are expected to attend all meetings unless lockdown-related scheduling issues prevent you. Please let me know in advance if you need to skip class either once or in general.
+
+Please silence notirications on your devices during class, so you can focus. Please don't use class time (lecture or lab) to check your email, update your Facebook, read reddit, watch YouTube, make dank memes, seize the means of production (well, that may be allowed under certain circumstances), etc. Such usage is distracting and interferes with learning both for you and for all the other students around you. If I notice you doing this, I will call you out in public. Spend class time on class materials. If another student's activity is distracting, please ask them to stop it (or let me know outside of class).
+
+* Course Requirements
+Your grade consists of the following components:
+
+|   | Assignment                       | Word Count        | Due Date | Weight |
+|---+----------------------------------+-------------------+----------+--------|
+| # | Online and Offline Participation | --                | --       |     25 |
+| # | Pandemic Journal 1               | 200-400 per entry | <2020-05-22 Fri>  |     20 |
+| # | Pandemic Journal 2               | 200-400 per entry | <2020-06-10 Wed>  |     20 |
+| # | Final Project                    |                   | <2020-06-15 Mon>  |     35 |
+|---+----------------------------------+-------------------+----------+--------|
+|   |                                  |                   |          |     95 |
+#+TBLFM: @>$>=vsum(@I..@II)
+# #+TBLFM: $>=$>>(100/@>$4)::@>$>>=vsum(@I..@II)
+
+* Outline (subject to change)
+** Meeting {{{n}}}:  ({{{ts}}}): Introduction
+
+*Readings:*
+- Daston, L., "[[https://critinq.wordpress.com/2020/04/10/ground-zero-empiricism/][Ground-Zero Empiricism]]" /In the Moment/ (April 10 2020).
+- Roy, A., "[[https://www.ft.com/content/10d8f5e8-74eb-11ea-95fe-fcd274e920ca][Arundhati Roy: ‘The pandemic is a portal’]]", /Financial Times/ (April 3, 2020).
+
+** {{{n}}} ({{{ts}}}): Understanding SARS-CoV-2 and the COVID disease
+A critical introduction to COVID science
+*Readings*
+- Contini, C., et al. "[[https://www-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca/pubmed/32235085][The novel zoonotic COVID-19 pandemic: An expected global health concern]]". /Journal of Infection in Developing Countries/, *14(3)*, 254-264 (2020). 
+- Wadman, M., Couzin-Frankel, J., Kaiser, J., MatacicApr. 17, C., 2020, & Pm, 6., /[[https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toes][How does coronavirus kill? Clinicians trace a ferocious rampage through the body, from brain to toes]]/ (2020). *OR*  Cyranoski, D., "[[http://www.nature.com/articles/d41586-020-01315-7][Profile of a killer: the complex biology powering the coronavirus pandemic]]". /Nature/, *581(7806)*, 22-26 (2020). 
+** {{{n}}} ({{{ts}}}): Plague
+- "Epidemics in Antiquity" and "Black Death Persecution and Abandonment" in Cohn, S. K., /[[http://myaccess.library.utoronto.ca/login?url=https://www.oxfordscholarship.com/view/10.1093/oso/9780198819660.001.0001/oso-9780198819660][Epidemics: hate and compassion from the plague of Athens to AIDS]]/. (Oxford: Oxford University Press,  2018).
+- "Plague" in Snowden, F. M., /[[https://ebookcentral-proquest-com.myaccess.library.utoronto.ca/lib/utoronto/reader.action?docID=5208439&ppg=18][Epidemics and society: from the Black Death to the present]]/. (New HavenYale University Press,  2019). 
+**  {{{n}}} ({{{ts}}}): Quarantine and Panic (Cholera and Influenza)
+- Warner-Smith, A. L., "[[https://doi.org/10.1007/s10761-019-00530-x][“Views from Somewhere”: Mapping Nineteenth-Century Cholera Narratives]]". /International Journal of Historical Archaeology/, *()*,  (2020).
+- Almeida, "Epidemic Opportunities," in  /Empires of panic: epidemics and colonial anxieties/. (Hong KongHong Kong University Press,  2015).
+- David Arnold, "Disease, Rumor, and Panic" in  /Empires of panic: epidemics and colonial anxieties/. (Hong KongHong Kong University Press,  2015).
+ 
+**  {{{n}}} ({{{ts}}}): Biopolitics, Necropolitics
+- Short, /[[http://www.utpjournals.press/journals/topia/covid-19-essays/biopolitical-economies-of-the-covie-19-pandemic?=\&][Biopolitical Economies of the COVID-19 Pandemic | TOPIA: Canadian Journal of Cultural Studies]]/ (2020).
+- Agamben, "[[http://www.journal-psychoanalysis.eu/coronavirus-and-philosophers/][Invention of an Epidemic]]" (scroll down to find this short excerpt)
+- Sotiris, /[[http://mv.ezproxy.com/2020/03/against-agamben-is-democratic.html][Against Agamben, is a democratic biopolitics possible?]]/ (2020).
+**  {{{n}}} ({{{ts}}}): AIDS: A New World
+
+**  {{{n}}} ({{{ts}}}): Ebola and Post-Colonial Medicine
+- Gregg Mitmann, /[[http://intheshadowofebola.com/film][In the Shadow of Ebola]]/ (film, 26 minutes)
+-  /[[https://www.spreaker.com/user/basementcreatorsnetwork/40-gregg-mitman-with-swf-template-mixdow][#40 | Gregg Mitman | Pandemic: A Letter from the Past]]/, /Science! With Friends (65 minutes)
+
+**  {{{n}}} ({{{ts}}}): Epistemology of Trackers, Maps, and Graphs
+
+**  {{{n}}} ({{{ts}}}): "Wuhan Virus" and the "Swedish Model"
+**  {{{n}}} ({{{ts}}}): Projects: Presentation
+**  {{{n}}} ({{{ts}}}): "In this together?" 
 
 * COMMENT Local Vars etc
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%b. %d>" . "<%Y-%m-%d %H:%M>")
-# org-mwp-classtimes-calibrate: ("<2019-09-03 Tue>" "<2019-08-29 Thu>" )
+# org-mwp-classtimes-calibrate: ( "<2020-05-05 Tue>" "<2020-04-30 Thu>")
 # End:
