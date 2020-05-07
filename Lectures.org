@@ -40,6 +40,48 @@ testing out the overview
 
 ** another stuff
 
+* Intro: Observation, Empiricism, Imagination 
+For today's class I assigned two short journalistic pieces about the effect of the current pandemic, perhaps not so much on our economies or our political situations, but on what Husserl called the [[https://en.wikipedia.org/wiki/Lifeworld][Life-world]] or what Wittgenstein called the [[https://en.wikipedia.org/wiki/Form_of_life_(philosophy)][Form of Life]]. That is, each of them addresses the impact of the pandemic on how we understand the world, and what possibilities are opened up and foreclosed by its multifarious effects.
+
+Lorraine Daston is en eminent historian of science, mostly writing about the 17th and 18th centuries. She has explored changing ideas of truth, and standards of evidence, in rich and fascinating ways -- so it's worth listening to her when she says that we are living through a significant transformation of how we think about truth and evidence.  She uses a couple of key words that it will be crucial to understand:
+
+- "Empricism": what does she mean here? Take a few minutes to explore the concept.  First, pause and reflect -- do I have an intuition about what it means? How fully fleshed-out is that opinion? Second, do some quick research -- look at the pages on empiriicism in Wikipedia, for instance, or in the Stanford Encyclopedia of philosophy.  How much of that can you follow? What would you need to learn in order to understand the articles better? finally, reflect on the author and the context. Daston is a historian of philosophy and ideas. What nuance is that likely to give to her use of the word? And how does the current moment -- the moment of the pandemic -- further inflect her use of the word?
+- The second word is "observation" She is using it in a somewhat unusual way, contrasting it, e.g., with "experiment".  Thank about why that might be.  
+The path to understanding the essay is, I would argue, through those words.  Having thought about them systematically, how would you summarize her arguments, and do you agree with them? What are its implications in your view?
+
+Roy is a renowned novelist and essayist, who has been deeply critical of the Modi regime since its inception. Her essay has the salutary feature of reminding us that the "worldwide" nature of the pandemic means more than just "China and the West". The effects of SARS-CoV-2 and COVID are being felt in different ways in different places. With its enormous population, its dramatic division between rich and poor, and the heavy reliance of the upper classes on domestic servants, India under lockdown is experiencing enormous pressures. Roy calls the pandemic "a portal" What does this mean? Read the ending carefully to be sure you've understood. Do you agree with her? To what extent do you think we are experiencing something similar in Canada? In what direction are we headed? What impact can we have on that direction, those of us who are neither policymakers, epidemiologists, or virologists? 
+
+* garbage!
+Daston's piece is entit
+
+
+
+Description
+ 
+calls:write
+channels:history
+channels:join
+channels:manage
+channels:read
+chat:write
+chat:write.customize
+chat:write.public
+files:read
+files:write
+groups:history
+groups:read
+groups:write
+im:history
+im:read
+im:write
+incoming-webhook
+mpim:history
+mpim:read
+mpim:write
+users:read
+users:read.email
+users:write
+
 
 * Topic 2
 * COMMENT Local Variables                          

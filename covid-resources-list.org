@@ -29,7 +29,7 @@ Short term only, tends to be pessimistic, was involved in UK's ill-fated decisio
 - [[https://mrc-ide.github.io/covid19-short-term-forecasts/index.html?fbclid=IwAR2DBpPyADrF5ateg85I1AljKkN6oSzrDDBMkXXvOrv5iiGOFqq9DkWl0pc][projections]] , includes estimates for R, very helpful
 
 ** CDC Forecast
-Uses rech lab data, see below for gh repo
+Uses Reich lab data, see below for gh repo
 - [[https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html?fbclid=IwAR1_Bi2vlcE0FuL0a8CHk777fU2Sn6ceVfL3nkuZL1z3AgXISd0ccx52uto][CDC Forecast]]
 
 
@@ -37,6 +37,8 @@ Uses rech lab data, see below for gh repo
 - [[https://coronavirus.jhu.edu/#covid-19-basics][JHU COVID Resource Center]]
 - [[https://www.theguardian.com/world/coronavirus-outbreak][The Guardian Coronavirus Hub]]
 - [[http://www.healthdata.org/covid][IHME Covid Hub]] (mostly their own pubs)
+
+* 
 * Periodic Updates
 - [[https://www.centerforhealthsecurity.org/newsroom/newsletters/e-newsletter-sign-up.html][JHU Newsletters]] ([[https://www.centerforhealthsecurity.org/resources/COVID-19/COVID-19-SituationReports.html][Archive]])
 - [[https://www.ndr.de/nachrichten/info/podcast4684.html][Das Coronavirus-Update mit Christian Drosten]] ([[https://www.ndr.de/nachrichten/info/Coronavirus-Update-Die-Podcast-Folgen-als-Skript,podcastcoronavirus102.html][German Transcripts]], [[https://www.notion.so/NDR-Coronavirus-update-with-Christian-Drosten-podcast-summaries-7f230087f3d643db9b1dbab671f07427][English Summaries]])
