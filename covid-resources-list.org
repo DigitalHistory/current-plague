@@ -37,8 +37,14 @@ Uses Reich lab data, see below for gh repo
 - [[https://coronavirus.jhu.edu/#covid-19-basics][JHU COVID Resource Center]]
 - [[https://www.theguardian.com/world/coronavirus-outbreak][The Guardian Coronavirus Hub]]
 - [[http://www.healthdata.org/covid][IHME Covid Hub]] (mostly their own pubs)
+- [[https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov][WHO COVID-19 hub]]
+- [[https://www-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca/research/coronavirus/docsum?filters=topics.Treatment][CovidLit db of publications]]
+- [[https://guides.library.utoronto.ca/coronavirus][U of T Coronavirus Guide page]]
+- [[https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html?utm_campaign=not-applicable&utm_medium=vanity-url&utm_source=canada-ca_coronavirus][Gov't of Canada hub]]
 
-* 
+* Syllabi
+- [[https://www.dukeupress.edu/Explore-Subjects/Syllabi/Navigating-Pandemic-Syllabus][Duke UP "Navigating the thread of Pandemic"]] -- links to other syllabi o n the DUP site as well.
+- 
 * Periodic Updates
 - [[https://www.centerforhealthsecurity.org/newsroom/newsletters/e-newsletter-sign-up.html][JHU Newsletters]] ([[https://www.centerforhealthsecurity.org/resources/COVID-19/COVID-19-SituationReports.html][Archive]])
 - [[https://www.ndr.de/nachrichten/info/podcast4684.html][Das Coronavirus-Update mit Christian Drosten]] ([[https://www.ndr.de/nachrichten/info/Coronavirus-Update-Die-Podcast-Folgen-als-Skript,podcastcoronavirus102.html][German Transcripts]], [[https://www.notion.so/NDR-Coronavirus-update-with-Christian-Drosten-podcast-summaries-7f230087f3d643db9b1dbab671f07427][English Summaries]])
@@ -47,7 +53,9 @@ Uses Reich lab data, see below for gh repo
 - [[https://www.nytimes.com/newsletters/coronavirus-briefing][NYTimes Newsletter]]
 - [[https://www.theguardian.com/world/live/2020/may/07/coronavirus-live-news-trump-says-covid-19-task-force-to-continue-indefinitely-as-us-china-rift-widens][The Guardian Live COVID Feed]] (URL changes daily)
 - [[https://www.theguardian.com/world/2020/mar/18/coronavirus-the-week-explained-sign-up-for-our-email-newsletter][The Guardian Newsletter]]
-- 
+- [[http://coviddiaries.thenocturnists.com/][The Nocturnists]] -- healthcare worker pandemic storytelling podcast
+- [[https://critinq.wordpress.com/2020/04/28/posts-from-the-pandemic/][Critical Inquiry Posts from the Pandemic]] (some pretty good stuff here)
+- [[http://covid19comics.captionbox.net/][Covid Comics]]
 * Code Repoitories (and various meta-trackers)
 - [[https://github.com/CSSEGISandData/COVID-19][JHU COVID data repo]]
 - [[https://www.covid-projections.com/][Compare IHME and LANL forecasts over time]] ([[https://github.com/yuorme/covid-projections][source code]])
@@ -56,4 +64,16 @@ Uses Reich lab data, see below for gh repo
 - - [[https://ihmeuw-msca.github.io/CurveFit/?fbclid=IwAR2xe0zQLHQ6eYvGcqRqzeiQ9DYH4UJAhWDLuuI5uF6F7nJtXSS0hHUlTJU][IHME CurveFit Model]], finally, some freaking code --
 - [[https://www.covidanalytics.io/projections?fbclid=IwAR3uYBdWKPfuyFkeXjM2ZYBkZXhyd6VKs02MYGIHNYo8AE8akIS0fYMLVSI][MIT Operations Research Center model]] ([[https://github.com/COVIDAnalytics/DELPHI][code]])
 - [[https://github.com/reichlab/covid19-forecast-hub?fbclid=IwAR1EO5CHAvQ7Wk9XCQEI1L4VF9ta52ORKuWvPeNeOYEtTtwSQJASqSn_G34][Reichlab data source]]
+- 
+* Data Sources 
+- [[https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/][AWS COVID-19 data lake]]
+* Social Sciences and Humanities
+- [[https://items.ssrc.org/category/covid-19-and-the-social-sciences/][SSRC series]] (includes studies of democracy, insecurity, Africa-specific issues, disasters)
+- [[https://the-syllabus.com/coronavirus-readings/][The syllabus coronavirus politics readings]]
+- [[https://www.cossa.org/resources/covid-19/][consortuin of social science assoc pandemic resources]] (links to many other info hubs)
+- [[https://www.covid-impact.org/][covid impact survey data sources]] (pdf reports but also xlsx, csv, spss)
+- [[https://www.semanticscholar.org/cord19?et_rid=35386254&et_cid=3257445][dataset of research articles]] (for text mining, etc.)
+- 
+* General Help
+- [[https://rise.articulate.com/share/soW5Pvyk3T4Ib-P4A7gS6AFqyOxsB2Eo#/][Navigating the COVID-19 evidence landscape]]
 - 
