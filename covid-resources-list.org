@@ -48,6 +48,7 @@ Uses Reich lab data, see below for gh repo
 - [[https://www.dukeupress.edu/Explore-Subjects/Syllabi/Navigating-Pandemic-Syllabus][Duke UP "Navigating the thread of Pandemic"]] -- links to other syllabi o n the DUP site as well.
 - 
 * Periodic Updates
+- [[https://www-nature-com.myaccess.library.utoronto.ca/articles/d41586-020-00502-w?utm_source=fbk_nnc&utm_medium=social&utm_campaign=naturenews&sf233397835=1][Nature "Pick of the Coronavirus Papers"]]
 - [[https://www.centerforhealthsecurity.org/newsroom/newsletters/e-newsletter-sign-up.html][JHU Newsletters]] ([[https://www.centerforhealthsecurity.org/resources/COVID-19/COVID-19-SituationReports.html][Archive]])
 - [[https://www.ndr.de/nachrichten/info/podcast4684.html][Das Coronavirus-Update mit Christian Drosten]] ([[https://www.ndr.de/nachrichten/info/Coronavirus-Update-Die-Podcast-Folgen-als-Skript,podcastcoronavirus102.html][German Transcripts]], [[https://www.notion.so/NDR-Coronavirus-update-with-Christian-Drosten-podcast-summaries-7f230087f3d643db9b1dbab671f07427][English Summaries]])
 - [[https://www.microbe.tv/twiv/][This Week in Virology]] (somewhat longwinded and occasionally dull, but with very interesting nuggets sometimes)
