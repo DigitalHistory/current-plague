@@ -1,3 +1,4 @@
+A very idiosyncratic/incomplete list of resources, with an emphasis on visualizations and code repos.  
 * Trackers
 ** US
 - [[https://coronavirus.jhu.edu/us-map][JHU CSSE US Map]] -- by ocunty
@@ -32,7 +33,8 @@ Short term only, tends to be pessimistic, was involved in UK's ill-fated decisio
 Uses Reich lab data, see below for gh repo
 - [[https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html?fbclid=IwAR1_Bi2vlcE0FuL0a8CHk777fU2Sn6ceVfL3nkuZL1z3AgXISd0ccx52uto][CDC Forecast]]
 
-
+** Example SEIR Model
+- [[https://covid19-projections.com/][covid-19 projections]] 
 * Information Hubs
 - [[https://coronavirus.jhu.edu/#covid-19-basics][JHU COVID Resource Center]]
 - [[https://www.theguardian.com/world/coronavirus-outbreak][The Guardian Coronavirus Hub]]
