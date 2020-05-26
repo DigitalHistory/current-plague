@@ -46,7 +46,8 @@ Uses Reich lab data, see below for gh repo
 
 * Syllabi
 - [[https://www.dukeupress.edu/Explore-Subjects/Syllabi/Navigating-Pandemic-Syllabus][Duke UP "Navigating the thread of Pandemic"]] -- links to other syllabi o n the DUP site as well.
-- 
+- [[https://docs.google.com/document/d/1dTkJmhWQ8NcxhmjeLp6ybT1_YOPhFLx9hZ43j1S7DjE/edit#]["Teach the Virus" #CoronavirusSyllabus]] -- well-organized, extremely helpful syllabus crowdsourced by many humanities professors
+- [[https://docs.google.com/document/d/1UeAN5jhSib-CsP17keNC6c3iMF7PgE3KDDDBy24w0xY/edit?fbclid=IwAR3RpL3PfIhvp7b8YZB1uJp57kzJ71mDBbAvhv0meN5F9wLemiLffUIWpbI#heading=h.mjfea2q58erf][Another prominent Coronavirus syllabus crowdsourcing project]], less well-organized but still hugely helpful. 
 * Periodic Updates
 - [[https://www-nature-com.myaccess.library.utoronto.ca/articles/d41586-020-00502-w?utm_source=fbk_nnc&utm_medium=social&utm_campaign=naturenews&sf233397835=1][Nature "Pick of the Coronavirus Papers"]]
 - [[https://www.centerforhealthsecurity.org/newsroom/newsletters/e-newsletter-sign-up.html][JHU Newsletters]] ([[https://www.centerforhealthsecurity.org/resources/COVID-19/COVID-19-SituationReports.html][Archive]])
