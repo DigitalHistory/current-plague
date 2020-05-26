@@ -60,6 +60,7 @@ Uses Reich lab data, see below for gh repo
 - [[http://coviddiaries.thenocturnists.com/][The Nocturnists]] -- healthcare worker pandemic storytelling podcast
 - [[https://critinq.wordpress.com/2020/04/28/posts-from-the-pandemic/][Critical Inquiry Posts from the Pandemic]] (some pretty good stuff here)
 - [[http://covid19comics.captionbox.net/][Covid Comics]]
+- [[https://covid19.omeka.net/][COVID 19 Archive]] An Omeka site collecting images, texts, and links in an archive of mostly ephemera from the plague year
 * Code Repoitories (and various meta-trackers)
 - [[https://github.com/CSSEGISandData/COVID-19][JHU COVID data repo]]
 - [[https://www.covid-projections.com/][Compare IHME and LANL forecasts over time]] ([[https://github.com/yuorme/covid-projections][source code]])
