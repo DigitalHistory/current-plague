@@ -65,6 +65,9 @@ Make every effort to attend each class meeting if you can! Class will begin and 
 
 Please silence notirications on your devices during class, so you can focus. Please don't use class time (lecture or lab) to check your email, update your Facebook, read reddit, watch YouTube, make dank memes, seize the means of production (well, that may be allowed under certain circumstances), etc. Such usage is distracting and interferes with learning both for you and for all the other students around you. If I notice you doing this, I will call you out in public. Spend class time on class materials. If another student's activity is distracting, please ask them to stop it (or let me know outside of class).
 
+* Resources
+The information landscape is increasingly difficult to navigate.  [[https://github.com/DigitalHistory/current-plague/blob/develop/covid-resources-list.org][My personal list of principal resources can be found here]], though I recommend that you formulate your own methods for managing the information overflow. The  [[https://guides.library.utoronto.ca/coronavirus][U of T Coronavirus Guide page]] can be very helpful, as can the curated lists of resources in the "Syllabus" section of my resources list.
+
 * Course Requirements
 Your grade consists of the following components:
 
