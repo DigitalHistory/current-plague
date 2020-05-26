@@ -104,14 +104,42 @@ A critical introduction to COVID science
 - Agamben, "[[http://www.journal-psychoanalysis.eu/coronavirus-and-philosophers/][Invention of an Epidemic]]" (scroll down to find this short excerpt)
 - Sotiris, /[[http://mv.ezproxy.com/2020/03/against-agamben-is-democratic.html][Against Agamben, is a democratic biopolitics possible?]]/ (2020).
 **  {{{n}}} ({{{ts}}}): AIDS: A New World
+This is unfortunately a very miniscule introduction to a vast literature. I regret, for instance, that we don't have time to look at Paul Farmer's groundbreaking [[https://ebookcentral-proquest-com.myaccess.library.utoronto.ca/lib/utoronto/reader.action?docID=787170&query=&ppg=123][Infections and Inequalities]].
+Please read: 
+- the two AIDS chapters in [[https://ebookcentral-proquest-com.myaccess.library.utoronto.ca/lib/utoronto/reader.action?docID=5910244][Epidemics and Society]]
+- Chapter two of Sangaramoorthy, T., /Treating AIDS: politics of difference, paradox of prevention/. (New Brunswick, N.JRutgers University Press,  2014). (uploaded to Slack)
 
+There are many, many other brilliant works you might read. I've refrained from listing literature and film here.  But some works you may want to look at for further insight: 
+- Priscilla Ward, [[https://books-scholarsportal-info.myaccess.library.utoronto.ca/en/read?id=/ebooks/ebooks0/duke/2012-10-25/1/9780822390572#page=234][The Columbus of AIDS]], in  /Contagious/,  (pp. 213-263) (2008). : Duke University Press.
+- The AIDS chapters of Thornber, K. L., /[[https://brill.com/view/title/56558][Global Healing: Literature, Advocacy, Care]]/. (Brill Rodopi,  2020).
+- [[https://www.sexinghistory.com/episode-7][A church With AIDS]] (podcast)
+- Petro, A. M., /[[http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199391288.001.0001/acprof-9780199391288][After the Wrath of God: AIDS, Sexuality, and American Religion]]/. (Oxford University Press, Oxford: 2015). The Introduction is a very helpful text. 
+- Patton, C., /[[http://myaccess.library.utoronto.ca/login?url=http://ebookcentral.proquest.com/lib/utoronto/detail.action?docID=310580][Globalizing AIDS]]/. (Minneapolis: University of Minnesota Press,  2002). 
+
+Finally, some short pieces about COVID that are largely inspired by the experience of AIDS: 
+- Marcus, J., /[[https://www.theatlantic.com/ideas/archive/2020/05/quarantine-fatigue-real-and-shaming-people-wont-help/611482/][Quarantine Fatigue Is Real]]/ (2020).
+- Atuk, /[[http://somatosphere.net/2020/hiv-gods-punishment-for-sexual-deviants-or-a-holy-gift-against-corona.html/][HIV: God’s punishment for sexual deviants or a holy gift against Corona?]]/ (2020).
 **  {{{n}}} ({{{ts}}}): Ebola and Post-Colonial Medicine
 - Gregg Mitmann, /[[http://intheshadowofebola.com/film][In the Shadow of Ebola]]/ (film, 26 minutes)
--  /[[https://www.spreaker.com/user/basementcreatorsnetwork/40-gregg-mitman-with-swf-template-mixdow][#40 | Gregg Mitman | Pandemic: A Letter from the Past]]/, /Science! With Friends (65 minutes)
+- Farmer, P., "[[https://www-journals-uchicago-edu.myaccess.library.utoronto.ca/doi/abs/10.1086/705301][Ebola, the Spanish Flu, and the Memory of Disease]]". /Critical Inquiry/, *46(1)*, 56-70 (2019). 
+- /[[https://www.spreaker.com/user/basementcreatorsnetwork/40-gregg-mitman-with-swf-template-mixdow][#40 | Gregg Mitman | Pandemic: A Letter from the Past]]/, /Science! With Friends (65 minutes)
 
 **  {{{n}}} ({{{ts}}}): Epistemology of Trackers, Maps, and Graphs
+We'll be looking at various trackers and graphs in light of your DH introduction to visualization.  Here's a partial list of candidates.
+*** Trackers
+**** US
+- [[https://coronavirus.jhu.edu/us-map][JHU CSSE US Map]] -- by county
+**** World
+- [[https://coronavirus.jhu.edu/map.html][JHU SSE Dashboard]] (canonical source of data for most forecasters and many other trackers, despite some issues with the underlying data)
+- [[https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html?action=click&pgtype=Article&state=default&module=styln-coronavirus&variant=show&region=TOP_BANNER&context=storyline_menu][NYTimes maps/trackers]] (URL changes daily)
+**** Canada
+- [[https://www.thestar.com/news/canada/the-latest-covid-19-data-from-canada-and-around-the-world-check-here-for-updates-on-cases-and-deaths.html][Toronto Star Interactives]]
+- [[https://www.ctvnews.ca/health/coronavirus/tracking-every-case-of-covid-19-in-canada-1.4852102][CityTV Case Tracker/interactive]]
+- [[https://www.ctvnews.ca/health/coronavirus/covid-19-curves-compare-canada-and-other-key-nations-1.4881500][CityTV Canada vs. World comparison]]
+- [[https://art-bd.shinyapps.io/covid19canada/][Dalla Lana School of Public Health Dashboard]] 
 
 **  {{{n}}} ({{{ts}}}): "Wuhan Virus" and the "Swedish Model"
+- Taylor, K., "[[https://www.newyorker.com/news/our-columnists/the-black-plague][The Black Plague]]". /The New Yorker/, *(April 16, 2002)*
 **  {{{n}}} ({{{ts}}}): Projects: Presentation
 **  {{{n}}} ({{{ts}}}): "In this together?" 
 
