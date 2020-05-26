@@ -1,5 +1,5 @@
 #+TITLE: Syllabus
-#+SUBTITLE: WDW436: The Current Plague
+#+SUBTITLE: WDW436, Summer 2020: The Current Plague
 #+DESCRIPTION:
 #+KEYWORDS:
 #+LANGUAGE: en
@@ -75,7 +75,7 @@ Your grade consists of the following components:
 | # | Pandemic Journal 2               | 200-400 per entry | <2020-06-10 Wed>  |     20 |
 | # | Final Project                    |                   | <2020-06-15 Mon>  |     35 |
 |---+----------------------------------+-------------------+----------+--------|
-|   |                                  |                   |          |     95 |
+|   |                                  |                   |          |    100 |
 #+TBLFM: @>$>=vsum(@I..@II)
 # #+TBLFM: $>=$>>(100/@>$4)::@>$>>=vsum(@I..@II)
 
@@ -95,7 +95,7 @@ A critical introduction to COVID science
 - "Epidemics in Antiquity" and "Black Death Persecution and Abandonment" in Cohn, S. K., /[[http://myaccess.library.utoronto.ca/login?url=https://www.oxfordscholarship.com/view/10.1093/oso/9780198819660.001.0001/oso-9780198819660][Epidemics: hate and compassion from the plague of Athens to AIDS]]/. (Oxford: Oxford University Press,  2018).
 - "Plague" in Snowden, F. M., /[[https://ebookcentral-proquest-com.myaccess.library.utoronto.ca/lib/utoronto/reader.action?docID=5208439&ppg=18][Epidemics and society: from the Black Death to the present]]/. (New HavenYale University Press,  2019). 
 **  {{{n}}} ({{{ts}}}): Quarantine and Panic (Cholera and Influenza)
-- Warner-Smith, A. L., "[[https://doi.org/10.1007/s10761-019-00530-x][“Views from Somewhere”: Mapping Nineteenth-Century Cholera Narratives]]". /International Journal of Historical Archaeology/, *()*,  (2020).
+- Warner-Smith, A. L., "[[https://link-springer-com.myaccess.library.utoronto.ca/article/10.1007/s10761-019-00530-x][“Views from Somewhere”: Mapping Nineteenth-Century Cholera Narratives]]". /International Journal of Historical Archaeology/, *()*,  (2020).
 - Almeida, "Epidemic Opportunities," in  /Empires of panic: epidemics and colonial anxieties/. (Hong KongHong Kong University Press,  2015).
 - David Arnold, "Disease, Rumor, and Panic" in  /Empires of panic: epidemics and colonial anxieties/. (Hong KongHong Kong University Press,  2015).
  
