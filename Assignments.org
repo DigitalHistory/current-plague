@@ -1,4 +1,4 @@
-#+SETUPFILE: ./setup.org
+# #+SETUPFILE: ./setup.org
 #+STARTUP: customtime
 #+HUGO_SECTION: assignment
 #+HUGO_MENU: :menu main :parent Assignments
@@ -17,6 +17,17 @@
 
 #+RESULTS:
 
+#+begin_src emacs-lisp
+(org-lms-map-assignments (org-lms-get-keyword "ORG_LMS_ASSIGNMENTS"))
+#+end_src
+
+#+RESULTS:
+#+begin_src emacs-lisp
+((PandemicJournal\(parts1and2\) :courseid nil :canvasid "345212" :due-at "2020-05-23" :html_url "https://q.utoronto.ca/courses/158912/assignments/345212" :name "Pandemic Journal (parts 1 and 2)" :submission_type "online_upload" :published "t" :submission_url "https://q.utoronto.ca/courses/158912/assignments/345212/submissions?zip=1" :basecommit "none" :org_lms_email_comments nil :org_lms_canvas_comments nil :assignment_number nil :grade_type "letter_grade" :assignment-type "canvas" :directory "pandemic-journal-(parts-1-and-2)" :rubric "- *Grade:* ::\n- *Comments* :: see my comments inline in your paper!")
+ (PandemicJournal2 :courseid nil :canvasid "355949" :due-at "2020-05-23" :html_url "https://q.utoronto.ca/courses/158912/assignments/355949" :name "Pandemic Journal 2" :submission_type "online_upload" :published "t" :submission_url "https://q.utoronto.ca/courses/158912/assignments/355949/submissions?zip=1" :basecommit "none" :org_lms_email_comments nil :org_lms_canvas_comments nil :assignment_number nil :grade_type "letter_grade" :assignment-type "canvas" :directory "pandemic-journal-2" :rubric "- *Grade:* ::\n- *Comments* :: see my comments inline in your paper!")
+ (Participation :courseid nil :canvasid nil :due-at nil :html_url nil :name "Participation" :submission_type "online_upload" :published nil :submission_url nil :basecommit nil :org_lms_email_comments nil :org_lms_canvas_comments "t" :assignment_number nil :grade_type "letter_grade" :assignment-type "canvas" :directory "participation" :rubric "- *Active Synchronous Participation* :: \n- *Attendance to synchronous sessions* :: \n- *Grade* :: "))
+#+end_src
+
 * Overview
 :PROPERTIES:
 :EXPORT_FILE_NAME: overview
@@ -25,10 +36,183 @@
 testing out the overview
  
 
+* Pandemic Journal (parts 1 and 2) :assignment:
+:PROPERTIES:
+:EXPORT_FILE_NAME: pandemic-journal
+:PUBLISH:  t
+:DUE_AT: 2020-05-23
+:GRADING_TYPE: letter_grade
+:ASSIGNMENT_TYPE: canvas
+:ASSIGNMENT_WEIGHT: 0.20
+:CANVAS_SUBMISSION_TYPES: (online_upload)
+:OL_PUBLISH: t
+:BASECOMMIT: none
+:CANVASID: 345212
+:CANVAS_HTML_URL: https://q.utoronto.ca/courses/158912/assignments/345212
+:CANVAS_SUBMISSION_URL: https://q.utoronto.ca/courses/158912/assignments/345212/submissions?zip=1
+:SUBMISSIONS_DOWNLOAD_URL: https://q.utoronto.ca/courses/158912/assignments/345212/submissions?zip=1
+:GRADING_STANDARD_ID: nil
+:ORG_LMS_EMAIL_COMMENTS: t
+:ORG_LMS_CANVAS_COMMENTS: t
+:END:
+
+The journal assignment is an opportunity for you to to two things at once:
+- engage in structured about COVID-19
+- reflect on your own experience of the pandemic
+
+This has been an unusual time. For many, enforced confinement, a sense of urgency, and a continual flood of (often very repetitive) information have led to a largely passive consumption of news reports, and by extension to a sense of helplessness. Journalling is one way to work against that pernicious pattern. The journal assignment asks you to write a total of 8 short entries over the course of the semester, bringing together reflection on your direct experiences, referneces to written materials of your own choice, and references back to the class  readings and discussions. Writing the journal should help you organize your intellectual response to the pandemic and conditions of life therein.
+
+** What you hand in
+*** Journal Entries
+Each half of the journal assignment (Parts 1 and 2) should contain 4 short entries organized around specific experiences of your own, and/or responses to particularly effective external sources. These are /not/ meant to be responses to the course readings -- you should make use of Slack conversations for that purpose -- nor are they unmediated or simple factual accounts of your experience. Instead, each entry should take the form of a short essay that uses a personal experience, or a piece of writing you encountered in your own exploration of COVID-19, as a launch point for an intellectually rich discussion of substantive issues related to the pandemic. So, it should take you several hours to write each one, and you may want to keep a sort of 'pre-journal' of notes about the pandemic, from which you can draw when you are composing the more finished pieces.
+
+Each entry is intended to be approximately 300 words, so you should hand in at least 1200 words of new writing on each of the due dates. This is not a lot of writing, and you should feel free to write more, and even to write additional entries, especially if you find that the journal becomes a useful tool to help you think more deeply.  
+
+*** "What I've been Reading" (Bibliography)
+
+In addition to your journal entries, you should keep a list of covid-related articles and essays you have been reading on your own. I don't have formal requirements for this section (number of sources etc.), and you should include in this list as many articles as you can that seem relevant. I therefore strongly recommend that you use [[https://www.zotero.org/][Zotero]] or other low-friction refrence manager to keep track of your sources.  Bibliography entries should include a full citation and, importantly, a link to the URL where the original source.
+
+** Marking
+
+Each part of the journal will recieve a single letter grade, based on the following criteria:
+
+- coherence of each entry: the experience being related clearly articulated, and is the argument or organizing idea clearly expressed?
+- accuracy of assertions : where matters of scientific or historical fact are mentioned, or the arguments of scholars described, are your claims consistent with the current state of knowledge? Do you acknowledge uncertainty where appropriate? 
+- writing style: is the piece written at a University level, and is it a pleasure to read?
+- spelling and grammar: is the journal relatively free of errors if this kind?
 
 
-* Participation
-* Paper Assignment 1
+** Rubric                                                           :rubric:
+
+- *Grade:* ::
+- *Comments* :: see my comments inline in your paper!
+
+
+
+
+ 
+* Pandemic Journal 2                                             :assignment:
+:PROPERTIES:
+:EXPORT_FILE_NAME: pandemic-journal-2
+:PUBLISH:  t
+:DUE_AT: 2020-05-23
+:GRADING_TYPE: letter_grade
+:ASSIGNMENT_TYPE: canvas
+:ASSIGNMENT_WEIGHT: 0.25
+:CANVAS_SUBMISSION_TYPES: (online_upload)
+:OL_PUBLISH: t
+:BASECOMMIT: none
+:CANVASID: 355949
+:CANVAS_HTML_URL: https://q.utoronto.ca/courses/158912/assignments/355949
+:CANVAS_SUBMISSION_URL: https://q.utoronto.ca/courses/158912/assignments/355949/submissions?zip=1
+:SUBMISSIONS_DOWNLOAD_URL: https://q.utoronto.ca/courses/158912/assignments/355949/submissions?zip=1
+:GRADING_STANDARD_ID: nil
+:END:
+
+The journal assignment is an opportunity for you to to two things at once:
+- engage in structured about COVID-19
+- reflect on your own experience of the pandemic
+
+This has been an unusual time. For many, enforced confinement, a sense of urgency, and a continual flood of (often very repetitive) information have led to a largely passive consumption of news reports, and by extension to a sense of helplessness. Journalling is one way to work against that pernicious pattern. The journal assignment asks you to write a total of 8 short entries over the course of the semester, bringing together reflection on your direct experiences, referneces to written materials of your own choice, and references back to the class  readings and discussions. Writing the journal should help you organize your intellectual response to the pandemic and conditions of life therein.
+
+** What you hand in
+*** Journal Entries
+Each half of the journal assignment (Parts 1 and 2) should contain 4 short entries organized around specific experiences of your own, and/or responses to particularly effective external sources. These are /not/ meant to be responses to the course readings -- you should make use of Slack conversations for that purpose -- nor are they unmediated or simple factual accounts of your experience. Instead, each entry should take the form of a short essay that uses a personal experience, or a piece of writing you encountered in your own exploration of COVID-19, as a launch point for an intellectually rich discussion of substantive issues related to the pandemic. So, it should take you several hours to write each one, and you may want to keep a sort of 'pre-journal' of notes about the pandemic, from which you can draw when you are composing the more finished pieces.
+
+Each entry is intended to be approximately 300 words, so you should hand in at least 1200 words of new writing on each of the due dates. This is not a lot of writing, and you should feel free to write more, and even to write additional entries, especially if you find that the journal becomes a useful tool to help you think more deeply.  
+
+*** "What I've been Reading" (Bibliography)
+
+In addition to your journal entries, you should keep a list of covid-related articles and essays you have been reading on your own. I don't have formal requirements for this section (number of sources etc.), and you should include in this list as many articles as you can that seem relevant. I therefore strongly recommend that you use [[https://www.zotero.org/][Zotero]] or other low-friction refrence manager to keep track of your sources.  Bibliography entries should include a full citation and, importantly, a link to the URL where the original source.
+
+** Marking
+
+Each part of the journal will recieve a single letter grade, based on the following criteria:
+
+- coherence of each entry: the experience being related clearly articulated, and is the argument or organizing idea clearly expressed?
+- accuracy of assertions : where matters of scientific or historical fact are mentioned, or the arguments of scholars described, are your claims consistent with the current state of knowledge? Do you acknowledge uncertainty where appropriate? 
+- writing style: is the piece written at a University level, and is it a pleasure to read?
+- spelling and grammar: is the journal relatively free of errors if this kind?
+
+
+** Rubric                                                           :rubric:
+
+- *Grade:* ::
+- *Comments* :: see my comments inline in your paper!
+
+
+
+* Final Project :assignment:
+:PROPERTIES:
+:EXPORT_FILE_NAME: final-assignment
+:PUBLISH:  t
+:DUE_AT: 2020-06-02
+:GRADING_TYPE: letter_grade
+:ASSIGNMENT_TYPE: canvas
+:ASSIGNMENT_WEIGHT: 0.35
+:CANVAS_SUBMISSION_TYPES: (online_upload)
+:OL_PUBLISH: t
+:BASECOMMIT: none
+:CANVASID: 353505
+:CANVAS_HTML_URL: https://q.utoronto.ca/courses/158912/assignments/353505
+:CANVAS_SUBMISSION_URL: https://q.utoronto.ca/courses/158912/assignments/353505/submissions?zip=1
+:SUBMISSIONS_DOWNLOAD_URL: https://q.utoronto.ca/courses/158912/assignments/353505/submissions?zip=1
+:GRADING_STANDARD_ID: nil
+:END:
+
+...And here we suddenly are at the end of the semester. It's come up fast!
+
+Your final project is a born-digital project taking humanities perspectives on either (a) a historical epidemic, one we have studied in the class or another important one; or (b) some aspect of the COVID-19 crisis. This is *not* a natural scientific or even a social-scientific assignment: you are not expected to summarize the scientific literature or reach factual conclusions about a quantitatively-measurable outcome. However, it *is* a *scholarly* project: a good project will not merely rehearse your opinions or repeat common-sense assertions. Instead, you will endeavour to make sense of *cultural productions* and *historical events* using analytical approaches you have learned in the course of your studies. These may be philosophical, anthropological, semiotic, structuralist, post-structualist, etc. etc. -- but your analysis should certainly be rooted in some kind of scholarly discourse
+
+A random list of topics that might serve as models:
+
+- constructions of "belonging" and "alien" in some literary account of an epidemic, such as Camus' /Plague/ or Dafoe's /Journal of the Plague Year/;
+- race and racism in epidemiological discourse, e.g. in the conversation around syphilis or yellow fever;
+- the rhetoric of fear in political discourse around COVID-19;
+- managing cognitive dissonance: tracking the changing pronouncements of a single pundit over the course of the epidemic, in the context of the increasing politicization of public health positions during the pandemic;
+- "Moral contagion" in this or any other epidemic -- how sick individuals are assigned moral failings by their contemporaries during an epidemic.
+
+The final project should include about 2500 words or writing -- the equivalent of a 10-page paper -- and should make ample use of images and links. Use *any* platform with which you are familiar through your work in the minor - [[https://omeka.org/][Omeka (Links to an external site.)]], [[https://www.arcgis.com/sharing/rest/oauth2/authorize?client_id=arcgisstorymaps&response_type=token&expiration=20160&redirect_uri=https%3A%2F%2Fstorymaps.arcgis.com%2Foauth-callback%3FreturnURL%3D%252Fstories%252Fnew&showSignupOption=true&force_login=true][storymaps (Links to an external site.)]], [[https://wordpress.com][Wordpress (Links to an external site.)]], [[https://pages.github.com/][Github Pages (Links to an external site.)]], etc. You can even use [[https://www.drupal.org/][Drupal (Links to an external site.)]], if you have experience and a masochistic streak., or [[https://www.gatsbyjs.org/][Gatsby (Links to an external site.)]], if you have a love affair with React and a tendency to punish yourself.
+
+In our final class, you will have an opportunity to present your work in a preliminary form to receive feedback from your peers. The assignment itself is due the following Tuesday.
+
+
+
+* Participation :assignment:
+:PROPERTIES:
+:EXPORT_FILE_NAME: Participation
+:PUBLISH:  t
+:ORG_LMS_EMAIL_COMMENTS: t
+:ORG_LMS_CANVAS_COMMENTS: t
+:GRADING_TYPE: letter_grade
+:ASSIGNMENT_TYPE: canvas
+:CANVAS_SUBMISSION_TYPES: (none)
+:ASSIGNMENT_WEIGHT: 0.25
+:OL_PUBLISH: nil
+:GRADING_STANDARD_ID: nil
+:ORG_LMS_ANNOUNCEMENT_ID: 649761
+:ORG_LMS_ANNOUNCEMENT_URL: https://q.utoronto.ca/courses/158912/discussion_topics/649761
+:ORG_LMS_POSTED_AT: 2020-05-13T18:39:48Z
+:END:
+
+** What Participation means in this class
+This is a strange kind of fourth-year seminar :-). Active participation is a crucial dimension of the seminar setting, and is, as it were, the alchemical process through which you transform your interest in the topic into knowledge and some level of mastery. Normally participation would be gauged primarily on the basis of oral discussions in the classroom settings. However, our current learning conditions do not always provide appropriate circumstances for active vocalizations during class. We therefore rely on other methods to judge thisimportant component of learning.
+
+*** Pre-Class Discussions
+Beginning May 19, by noon before class, two of you will post *written responses* to the readings for that session. Those responses should pose questions to help structure the class discussion. If you're not able to attend the class, you should *respond to those posts in Slack*. Even if you're coming to class, you're very much encouraged to do the same. These discussions will help to organize our synchronous discussions.  
+
+*** Synchronous meetings: Slack and Speech
+We will all have to split our attention between Slack and the conference call during our meetings. If you're unable to speak, then you will need to be particularly active in Slack.  I recommend that you familiarize yourself with [[https://slack.com/intl/en-ca/help/articles/202288908-Format-your-messages][the Slack formatting conventions]]. You may also want to read up on [[https://www.howtogeek.com/450030/how-to-enable-classic-markdown-text-formatting-in-slack/][Slack's pseudo-markdown, and how to enable it in the new interface]], and the [[https://slack.com/intl/en-ca/help/articles/201374536-Slack-keyboard-shortcuts][slack keyboard shortcuts]]. Writing is slower than speech, so don't worry too much about spelling errors, and consider using a simple text editor like Notepad (windows) or TextEdit (Mac) to compose your messages so you can paste your whole thought in at once (if you use a real text editor already, that may also be an option).
+
+Quantity matters less than substantive engagement with intellectual issues. In both speech and chat, think about how you can keep the conversation on the highest possible intellectual level (though jokes are fine too). 
+
+*** Asynchronous Conversation: Slack Contributions
+As you read and explore these topics, you will likely have thoughts and encounter information that are worth sharing with the class. Please do so, in a formal or informal manner. I will nedeavour to do the same.  Please also engage with the thoughts of your classmates!
+
+** COMMENT Rubric :rubric:
+- *Active Synchronous Participation* :: 
+- *Attendance to synchronous sessions* :: 
+- *Grade* :: 
 * COMMENT Local Variables                          
 # Local Variables:
 # org-hugo-auto-export-on-save: t

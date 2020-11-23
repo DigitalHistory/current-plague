@@ -49,6 +49,7 @@ Uses Reich lab data, see below for gh repo
 - [[https://docs.google.com/document/d/1dTkJmhWQ8NcxhmjeLp6ybT1_YOPhFLx9hZ43j1S7DjE/edit#]["Teach the Virus" #CoronavirusSyllabus]] -- well-organized, extremely helpful syllabus crowdsourced by many humanities professors
 - [[https://docs.google.com/document/d/1UeAN5jhSib-CsP17keNC6c3iMF7PgE3KDDDBy24w0xY/edit?fbclid=IwAR3RpL3PfIhvp7b8YZB1uJp57kzJ71mDBbAvhv0meN5F9wLemiLffUIWpbI#heading=h.mjfea2q58erf][Another prominent Coronavirus syllabus crowdsourcing project]], less well-organized but still hugely helpful. 
 * Periodic Updates
+- [[https://covidtracking.com/blog/this-week-in-covid-19-data-july-2][The Atlantic's COVID Tracking Project]]
 - [[https://www-nature-com.myaccess.library.utoronto.ca/articles/d41586-020-00502-w?utm_source=fbk_nnc&utm_medium=social&utm_campaign=naturenews&sf233397835=1][Nature "Pick of the Coronavirus Papers"]]
 - [[https://www.centerforhealthsecurity.org/newsroom/newsletters/e-newsletter-sign-up.html][JHU Newsletters]] ([[https://www.centerforhealthsecurity.org/resources/COVID-19/COVID-19-SituationReports.html][Archive]])
 - [[https://www.ndr.de/nachrichten/info/podcast4684.html][Das Coronavirus-Update mit Christian Drosten]] ([[https://www.ndr.de/nachrichten/info/Coronavirus-Update-Die-Podcast-Folgen-als-Skript,podcastcoronavirus102.html][German Transcripts]], [[https://www.notion.so/NDR-Coronavirus-update-with-Christian-Drosten-podcast-summaries-7f230087f3d643db9b1dbab671f07427][English Summaries]])
@@ -61,6 +62,7 @@ Uses Reich lab data, see below for gh repo
 - [[https://critinq.wordpress.com/2020/04/28/posts-from-the-pandemic/][Critical Inquiry Posts from the Pandemic]] (some pretty good stuff here)
 - [[http://covid19comics.captionbox.net/][Covid Comics]]
 - [[https://covid19.omeka.net/][COVID 19 Archive]] An Omeka site collecting images, texts, and links in an archive of mostly ephemera from the plague year
+- [[https://www.coronatimes.net/][Corona Times]] -- an occasional blog, collectively written, with an emphasis on social scientific and humanities themes, organized out of the University of Cape Town in South Africa.
 * Code Repoitories (and various meta-trackers)
 - [[https://github.com/CSSEGISandData/COVID-19][JHU COVID data repo]]
 - [[https://www.covid-projections.com/][Compare IHME and LANL forecasts over time]] ([[https://github.com/yuorme/covid-projections][source code]])

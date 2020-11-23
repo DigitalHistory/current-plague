@@ -101,7 +101,7 @@ A critical introduction to COVID science
 - Warner-Smith, A. L., "[[https://link-springer-com.myaccess.library.utoronto.ca/article/10.1007/s10761-019-00530-x][“Views from Somewhere”: Mapping Nineteenth-Century Cholera Narratives]]". /International Journal of Historical Archaeology/, *()*,  (2020).
 - Almeida, "Epidemic Opportunities," in  /Empires of panic: epidemics and colonial anxieties/. (Hong KongHong Kong University Press,  2015).
 - David Arnold, "Disease, Rumor, and Panic" in  /Empires of panic: epidemics and colonial anxieties/. (Hong KongHong Kong University Press,  2015).
- 
+
 **  {{{n}}} ({{{ts}}}): Biopolitics, Necropolitics
 - Short, /[[http://www.utpjournals.press/journals/topia/covid-19-essays/biopolitical-economies-of-the-covie-19-pandemic?=\&][Biopolitical Economies of the COVID-19 Pandemic | TOPIA: Canadian Journal of Cultural Studies]]/ (2020).
 - Agamben, "[[http://www.journal-psychoanalysis.eu/coronavirus-and-philosophers/][Invention of an Epidemic]]" (scroll down to find this short excerpt)
@@ -124,6 +124,9 @@ Finally, some short pieces about COVID that are largely inspired by the experien
 - Atuk, /[[http://somatosphere.net/2020/hiv-gods-punishment-for-sexual-deviants-or-a-holy-gift-against-corona.html/][HIV: God’s punishment for sexual deviants or a holy gift against Corona?]]/ (2020).
 **  {{{n}}} ({{{ts}}}): Ebola and Post-Colonial Medicine
 - Gregg Mitmann, /[[http://intheshadowofebola.com/film][In the Shadow of Ebola]]/ (film, 26 minutes)
+
+- Farmer, P., "[[https://www.lrb.co.uk/the-paper/v36/n20/paul-farmer/diary][Paul Farmer · Diary: Ebola · LRB 22 October 2014]]". /London Review of Books/, *36(20)*,  (2014). 
+  
 - Farmer, P., "[[https://www-journals-uchicago-edu.myaccess.library.utoronto.ca/doi/abs/10.1086/705301][Ebola, the Spanish Flu, and the Memory of Disease]]". /Critical Inquiry/, *46(1)*, 56-70 (2019). 
 - /[[https://www.spreaker.com/user/basementcreatorsnetwork/40-gregg-mitman-with-swf-template-mixdow][#40 | Gregg Mitman | Pandemic: A Letter from the Past]]/, /Science! With Friends (65 minutes)
 
@@ -143,9 +146,9 @@ We'll be looking at various trackers and graphs in light of your DH introduction
 
 **  {{{n}}} ({{{ts}}}): "Wuhan Virus" and the "Swedish Model"
 - Taylor, K., "[[https://www.newyorker.com/news/our-columnists/the-black-plague][The Black Plague]]". /The New Yorker/, *(April 16, 2002)*
-**  {{{n}}} ({{{ts}}}): Projects: Presentation
 **  {{{n}}} ({{{ts}}}): "In this together?" 
 
+**  {{{n}}} ({{{ts}}}): Projects: Presentation
 * COMMENT Local Vars etc
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%b. %d>" . "<%Y-%m-%d %H:%M>")
